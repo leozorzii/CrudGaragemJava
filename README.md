@@ -3,14 +3,6 @@
 Este projeto implementa um sistema completo de gerenciamento de veículos utilizando os princípios da **Programação Orientada a Objetos (POO)** e coleções em **Java**. Ele permite realizar todas as operações CRUD (Create, Read, Update, Delete) de forma simples, organizada e modular.
 
 ---
-
-## Repositório
-
- **URL Pública:**  
-https://github.com/leozorzii/CrudGaragemJava.git
-
----
-
 ## Funcionalidades
 
 | Módulo | Funcionalidade | Detalhes Técnicos |
