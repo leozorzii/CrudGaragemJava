@@ -120,7 +120,7 @@ public class metodosGaragem {
 
         for (int i = 0; i < carros.size(); i++) {
             if(carros.get(i).getPlaca().equals(placaBusca)){
-                System.out.println("✅ Veiculo Encontrado!");
+                System.out.println("Veiculo Encontrado!");
                 System.out.println("Detalhes: " + carros.get(i));
                 System.out.println("Indice: " + i);
                 return;
